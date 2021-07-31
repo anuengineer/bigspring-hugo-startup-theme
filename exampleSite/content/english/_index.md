@@ -65,28 +65,16 @@ service:
       enable: true
       label: Check it out
       link: "#"
-  - title: A company standing different from others
-    images:
-    - images/service-3.png
-    content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique
-      eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet
-      sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet,
-      tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel
-      consquat.
-    button:
-      enable: true
-      label: Check it out
-      link: "#"
 screenshot:
   enable: true
-  title: Experience the best <br> workflow with us
+  title: Experience the AI-assisted sales acceleration
   image: images/screenshot.svg
 call_to_action:
   enable: true
   title: Ready to get started?
   image: images/cta.svg
-  content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique
-    eget amet, tempus eu at consecttur.
+  content: If you are looking to get deep insights into your sales process, and leverage
+    that to close deals faster, Please give us a call.
   button:
     enable: true
     label: Contact Us
