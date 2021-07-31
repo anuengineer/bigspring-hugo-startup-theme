@@ -27,7 +27,7 @@ feature:
 service:
   enable: true
   service_item:
-  - title: 'What does Accelero do for you ? '
+  - title: 'What does Accelero do ? '
     images:
     - images/service-1.png
     - images/service-2.png
