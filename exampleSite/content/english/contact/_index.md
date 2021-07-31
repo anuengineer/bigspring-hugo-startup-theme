@@ -4,7 +4,7 @@ subtitle: ''
 description: This is meta description
 
 ---
-### Accelerating Sales and deals
+### Accelerating sales and deals
 
 If you are looking to accelerate sales and see  information about deals that you are missing out, give us a call or write to us.
 
