@@ -50,14 +50,17 @@ service:
       enable: true
       label: Check it out
       link: "#"
-  - title: It’s a team of experienced and skilled people with distributions
+  - title: 'Why do I need Accelero ? '
     images:
     - images/service-2.png
-    content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique
-      eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet
-      sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet,
-      tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel
-      consquat.
+    content: |2+
+
+      Accelero's AI-assisted sales team can see opportunities that exist across domains.
+
+      Accelero takes the grunt work out of correlating information from different sources to provide a single page of business intelligence that can accelerate sales.
+
+      The sales team gets to focus more on sales, not on back-office work.
+
     button:
       enable: true
       label: Check it out
