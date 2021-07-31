@@ -13,7 +13,7 @@ feature:
   title: Three steps to success
   feature_item:
   - name: Natural Language Interface to Customer problems
-    icon: far fa-comments
+    icon: fas fa-comments
     content: " Sales folks can write the customer pain points, and the Accelero Sales
       Insights will translate that into an actionable matrix."
   - name: Object Oriented
