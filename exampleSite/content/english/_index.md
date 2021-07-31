@@ -5,16 +5,17 @@ banner:
   content: Sellers spend lots of time and apply tribal knowledge to identify a winning
     solution against a customer opportunity.
   button:
-    enable: true
+    enable: false
     label: Contact Us
     link: contact
 feature:
   enable: true
-  title: Something You Need To Know
+  title: Three steps to success
   feature_item:
-  - name: Clean Code
-    icon: fas fa-code
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
+  - name: Natural Language Interface to Customer problems
+    icon: far fa-comments
+    content: " Sales folks can write the customer pain points, and the Accelero Sales
+      Insights will translate that into an actionable matrix."
   - name: Object Oriented
     icon: fas fa-object-group
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
