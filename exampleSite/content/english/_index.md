@@ -20,18 +20,11 @@ feature:
     icon: fas fa-project-diagram
     content: A knowledge graph that is brings rich sources of business data together.
       The sales person is able to get rich enhanced data when looking for solutions.
-  - name: 24h Service
+  - name: 'Find Solutions '
     icon: fas fa-user-clock
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
-  - name: Value For Money
-    icon: fas fa-heart
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
-  - name: Faster Response
-    icon: fas fa-tachometer-alt
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
-  - name: Cloud Support
-    icon: fas fa-cloud
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
+    content: Leverage Natural language processing to understand customer pain points
+      and find the optimal solutions. This rapid searches takes away ad-hoc methods
+      from your sales process.
 service:
   enable: true
   service_item:
