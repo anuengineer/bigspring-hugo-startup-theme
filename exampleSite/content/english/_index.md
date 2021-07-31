@@ -2,8 +2,8 @@
 banner:
   title: " A recommendation engine to find business solutions for customer problems."
   image: images/banner-art.svg
-  content: Sellers spend lots of time and apply tribal knowledge to identify a winning
-    solution against a customer opportunity.
+  content: "<h3>Sellers spend lots of time and rely on tribal knowledge to identify
+    a winning solution against a customer opportunity.</h3>"
   button:
     enable: false
     label: Contact Us
@@ -42,7 +42,7 @@ service:
       link: "#"
   - title: How does Accelero do it ?
     images:
-    - images/service-1.png
+    - images/service-4.png
     content: |2-
 
       Accelero is designed to collect rich information from various business sources and merge it with qualified leads. An Accelero-ed sales team sees opportunities that others miss.
