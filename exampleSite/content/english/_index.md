@@ -30,8 +30,6 @@ service:
   - title: 'What does Accelero do ? '
     images:
     - images/service-1.png
-    - images/service-2.png
-    - images/service-3.png
     content: |
       ​
 
