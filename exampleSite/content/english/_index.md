@@ -22,9 +22,8 @@ feature:
       The sales person is able to get rich enhanced data when looking for solutions.
   - name: 'Find Solutions '
     icon: fas fa-user-clock
-    content: Leverage Natural language processing to understand customer pain points
-      and find the optimal solutions. This rapid searches takes away ad-hoc methods
-      from your sales process.
+    content: Take the guess work out of matching business solutions to customer problems.
+      Leverage Accerlo's advanced AI solutions to  add agility to your sales process.
 service:
   enable: true
   service_item:
