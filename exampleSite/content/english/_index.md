@@ -16,9 +16,10 @@ feature:
     icon: fas fa-comments
     content: " Sales folks can write the customer pain points, and the Accelero Sales
       Insights will translate that into an actionable matrix."
-  - name: Object Oriented
-    icon: fas fa-object-group
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
+  - name: Knowledge Graph
+    icon: fas fa-project-diagram
+    content: A knowledge graph that is brings rich sources of business data together.
+      The sales person is able to get rich enhanced data when looking for solutions.
   - name: 24h Service
     icon: fas fa-user-clock
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
