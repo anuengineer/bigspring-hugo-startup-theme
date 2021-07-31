@@ -1,15 +1,12 @@
 ---
-title: "Contact Us"
-subtitle: ""
-# meta description
-description: "This is meta description"
-draft: false
+title: Contact Us
+subtitle: ''
+description: This is meta description
+
 ---
+### Accelerating Sales and deals
 
+If you are looking to accelerate sales and see  information about deals that you are missing out, give us a call or write to us.
 
-### Why you should contact us!
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit recusandae voluptates doloremque veniam temporibus porro culpa ipsa, nisi soluta minima saepe laboriosam debitis nesciunt.
-
-* **Phone: +88 125 256 452** 
-* **Mail: info@bigspring.com**
-* **Address: 360 Main rd, Rio, Brazil**
+* **Mail: info@accelero.ai**
+* **Adress: Sammamish, WA 98075**
