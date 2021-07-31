@@ -27,28 +27,25 @@ feature:
 service:
   enable: true
   service_item:
-  - title: It is the most advanced digital marketing and it company.
+  - title: 'What does Accelero do for you ? '
     images:
     - images/service-1.png
     - images/service-2.png
     - images/service-3.png
-    content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique
-      eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet
-      sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet,
-      tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel
-      consquat.
+    content: |
+      ​
+
+      Empower sellers by rapidly discovering solutions to the customer problems.  Thus accelerating the process from first hello to closing deals.
     button:
       enable: true
       label: Check it out
       link: "#"
-  - title: It is a privately owned Information and cyber security company
+  - title: How does Accelero do it ?
     images:
     - images/service-1.png
-    content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique
-      eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet
-      sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet,
-      tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel
-      consquat.
+    content: |2-
+
+      Accelero is designed to collect rich information from various business sources and merge it with qualified leads. An Accelero-ed sales team sees opportunities that others miss.
     button:
       enable: true
       label: Check it out
