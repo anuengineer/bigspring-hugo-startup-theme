@@ -40,7 +40,7 @@ service:
       link: "#"
   - title: How does Accelero do it ?
     images:
-    - images/service-4.png
+    - images/service-5.png
     content: |2-
 
       Accelero is designed to collect rich information from various business sources and merge it with qualified leads. An Accelero-ed sales team sees opportunities that others miss.
