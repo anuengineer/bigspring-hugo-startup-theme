@@ -10,7 +10,7 @@ banner:
     link: contact
 feature:
   enable: true
-  title: Three steps to success
+  title: Add three pillars of success to your sales team !
   feature_item:
   - name: Natural Language Interface to Customer problems
     icon: fas fa-comments
