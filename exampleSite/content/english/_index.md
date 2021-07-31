@@ -20,7 +20,7 @@ feature:
     icon: fas fa-project-diagram
     content: A knowledge graph that is brings rich sources of business data together.
       The sales person is able to get rich enhanced data when looking for solutions.
-  - name: 'Find Solutions '
+  - name: Accelerate finding solutions
     icon: fas fa-user-clock
     content: Take the guess work out of matching business solutions to customer problems.
       Leverage Accerlo's advanced AI solutions to  add agility to your sales process.
