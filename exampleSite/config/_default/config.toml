@@ -1,4 +1,4 @@
-baseURL = "http://accelero.ai"
+baseURL = "http://accelero.ai.netlify.com"
 disqusShortname = ""
 googleAnalytics = ""
 paginate = "3"
